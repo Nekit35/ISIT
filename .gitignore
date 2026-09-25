@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+vk_*.csv
+vk_*.png
+vk_*.graphml
